@@ -5,7 +5,7 @@ Agente Bina
 - **Bag**;
 
 	- 50 G;
-	- Potion *x2*;
+	- Potion *x3*;
 	- Piadas sem graça;
 	- Trocadilhos de Tiozinho;
 	- Repelente de crianças.
